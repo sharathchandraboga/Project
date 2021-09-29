@@ -1,0 +1,26 @@
+<div class="box">
+            <img src="images/dish4.jpg" alt="">
+            <div class="info">
+                <h3>dish4</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam.</p>
+                <a href="#"><button>view</button></a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/dish5.jpg" alt="">
+            <div class="info">
+                <h3>dish5</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam.</p>
+                <a href="#"><button>view</button></a>
+            </div>
+        </div>
+
+        <div class="box">
+            <img src="images/dish6.jpg" alt="">
+            <div class="info">
+                <h3>dish6</h3>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quisquam.</p>
+                <a href="#"><button>view</button></a>
+            </div>
+        </div>
