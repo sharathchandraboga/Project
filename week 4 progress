@@ -1,0 +1,15 @@
+<!--Hero Section-->
+      <section id="hero">
+          <div class="hero-container">
+              <div class="hero-logo">
+                  <img src="images/logo.png" alt="Burger Palace">
+              </div>
+              <h1> Welcome To Burger Palace</h1>
+              <h2>We have Lorem ipsum dolor sit amet.</h2>
+              <div class="actions">
+                  <a href="#" class="main-1">Lorem Ipsum</a>
+                  <a href="#" class="main-2"> Daily Deals </a>
+              </div>
+          </div>
+      </section>
+      <!---End of Hero Section-->
